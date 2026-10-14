@@ -1,6 +1,6 @@
 {
-  "shipName": "",
-  "color": "22d3ee",
-  "shipModel": "interceptor",
+  "shipName": "Pulekk Ship",
+  "color": "#22d3ee",
+  "shipModel": "scout",
   "emblem": "comet"
 }
